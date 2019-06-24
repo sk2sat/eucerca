@@ -1,0 +1,5 @@
+eucerca
+*.bin
+*.o
+*.a
+*.d
